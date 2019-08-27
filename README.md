@@ -3,14 +3,14 @@
 
 # Installation
 
-### Using curl
+## 1. Using curl
 You can install Developer Insider Xcode theme by running following command in your terminal -
 ```bash
 curl -s https://open.developerinsider.co/XcodeTheme/install.sh | bash
 ```
 Now, select DeveloperInsider Xcode theme in Xcode's preferences to start using it. You may have to restart Xcode first.
 
-### Installing manually
+## 2. Installing manually
 
 You can also choose to do things manually if you want:
 
