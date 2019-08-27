@@ -13,10 +13,10 @@ FONT_INSTALL_PATH="${HOME}/Library/Fonts/"
 XCODE_THEME_PATH="${HOME}/Library/Developer/Xcode/UserData/FontAndColorThemes/"
 
 # Color Constants
-RED_COLOR="\033[0;31m"
-GREEN_COLOR="\033[0;32m"
-YELLOW_COLOR="\033[1;33m"
-CLEAR_COLOR="\033[0m"
+RED_COLOR=`tput setaf 1`
+GREEN_COLOR=`tput setaf 2`
+YELLOW_COLOR=`tput setaf 3`
+CLEAR_COLOR=`tput sgr 0`
 
 # Functions
 checkError() {
