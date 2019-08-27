@@ -1,5 +1,5 @@
 # XcodeTheme
-DeveloperInsider Xcode Theme
+![](/Screenshot.png)
 
 # Installation
 
